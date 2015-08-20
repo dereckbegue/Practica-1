@@ -1,8 +1,0 @@
-Gitignore sirve para que no se añadan tipos de archivos que no son de relevancia. Para estos casos se utiliza .gitignore
-ejemplo
-$ cat .gitignore
-*.[oa] 
-* ~
-
-en la segunda linea ignora cualquier archivo cuyo nombre termina en .o o .a
-en la tercera linea ignora archivos que terminan en ~
